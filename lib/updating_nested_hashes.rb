@@ -20,12 +20,14 @@ def update_status
       }
    }
 
-epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"
-
 
  
 end
+
+
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"
+
 
 # def add_characters
 #   epic_tragedy = {
